@@ -104,6 +104,10 @@ body.dark-mode .btn-primary {
     border-radius: 10px;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
 }
+#projects .container {
+    padding-top: 1rem; /* or however much spacing you want */
+}
+
 
 #date {
     background-color: rgba(0, 0, 0, 0.7);
